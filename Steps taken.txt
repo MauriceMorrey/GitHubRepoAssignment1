@@ -1,0 +1,14 @@
+This is my first GitHub project
+
+STEPS FOLLOWED
+**Created new Repo on GITHUB
+1.Navigated to desktop on cmd
+2.Created new folder --GitHubRepoAssignment
+3.Navigated to new folder
+4.Initialized git
+5.Made .txt document in new folder
+6.Checked status>>git status
+7.Added file>>git add .
+8.Commited file>> git commit -"added new text document"
+9.Pushed file to github
+10.Checked status
